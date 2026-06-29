@@ -24,10 +24,3 @@ This work presents a deep learning-based speech enhancement system that removes 
 
 This work utilizes the **TIMIT** dataset as the source of clean speech recordings and the **AURORA** dataset for environmental noise samples. Clean speech signals are mixed with different types of background noise at predefined Signal-to-Noise Ratio (SNR) levels to generate noisy speech for training and evaluation. The dataset includes multiple speakers and diverse noise conditions such as babble, street, train, car, and restaurant noise, allowing the model to generalize effectively across various real-world acoustic scenarios.
 
-
-## Publication
-
-**Audio Denoising: Speech Enhancement using Convolutional Neural Networks**
-
-Published in the **5th International Conference on Recent Trends in Machine Learning, IoT, Smart Cities and Applications (ICMISC 2024).**
-https://doi.org/10.1007/978-981-97-8865-1_14
